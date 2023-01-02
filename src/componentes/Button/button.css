@@ -1,0 +1,20 @@
+.button {
+    background: #6278F7;
+    width: 160px;
+    height: 80px;
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: 700;
+    color: white;
+
+}
+
+.button:hover{
+    transform:scale(1.02);
+
+}
+
+.button:active{
+    color:#8a98ed;
+}
+

@@ -1,0 +1,23 @@
+formulario{
+    text-align: center;
+    width:100%;
+}
+
+form{  
+    margin:30px auto;
+    width: 720px;
+    top: 600px; 
+    padding:40px;
+    position: flex;
+    
+    background: #ffffff;
+    box-shadow: 7px 7px 15px rgba(0, 0, 0, 0.35);
+    border-radius: 20px;
+}
+
+form h2{
+    margin-bottom:50px;
+    font-family: 'Prata';
+    font-size: 32px;
+    font-weight: unset;
+}
